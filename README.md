@@ -1,6 +1,11 @@
+*This is my fork of https://github.com/kyoshiro10500/GA-Viz, my engineering school end of studies project.*
 # GA-Viz
 
 GA-Viz is a data visualization tool for genetic algorithms. Created in cooperation between Universiti Teknologi Petronas, ESAD Reims and JIN (Jeux vidéo / Intéractions et collaborations numériques) of Evry. This is an end of studies' project from JIN developped by Cloquet Benjamin (TSP), Freyssinet Olivier (TSP), Jacquemin Thomas (TSP), Person Victor (ENSIIE) and Touchard Pierre (X).
+
+## Demo video
+*Click on the image below*  
+[![GA-Viz demo video](https://img.youtube.com/vi/vpnpYdoYWzk/0.jpg)](https://youtu.be/vpnpYdoYWzk)
 
 ## Getting Started
 
